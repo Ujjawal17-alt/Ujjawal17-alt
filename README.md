@@ -1,343 +1,211 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:111827,100:0EA5E9&text=UJJAWAL&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=60&descSize=17&animation=fadeIn"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AWS+Cloud+Infrastructure;CI%2FCD+%7C+Docker+%7C+Linux;Infrastructure+Automation;Monitoring+%7C+Observability;Production+Reliability;Kubernetes+%7C+GitOps+%7C+Terraform"/>
-
-<br><br>
-
-<a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GitHub-Ujjawal17--alt-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/Ujjawal17-alt?tab=repositories"> <img src="https://img.shields.io/badge/Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Ujjawal17-alt&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS"/> </div>
 <div align="center">
-DEVOPS ENGINEER
+Ujjawal
 
-Cloud Infrastructure · CI/CD · Containers · Linux · Observability
+DevOps Engineer
 
-Building and operating reliable production systems with a focus on automation, security, scalability and operational efficiency.
+AWS · Linux · Docker · Jenkins · GitHub · Prometheus · Grafana
 
-</div> <br> <table align="center"> <tr> <td align="center" width="25%"> <br> <b>35+</b> <br> <sub>Production Websites</sub> <br><br> </td> <td align="center" width="25%"> <br> <b>AWS</b> <br> <sub>Cloud Platform</sub> <br><br> </td> <td align="center" width="25%"> <br> <b>~$1,500</b> <br> <sub>Monthly Cost Savings</sub> <br><br> </td> <td align="center" width="25%"> <br> <b>CI/CD</b> <br> <sub>Jenkins + GitHub</sub> <br><br> </td> </tr> </table>
+<br>
+
+
+
+
+
+
+
+
+
+
+</div>
 About
 
-I’m a DevOps Engineer working on production cloud infrastructure, application delivery and operational automation.
+I'm a DevOps Engineer working on production cloud infrastructure, application deployments, CI/CD automation, monitoring and reliability.
 
-My experience includes managing AWS environments, Linux servers, CI/CD pipelines, Dockerized applications, DNS and SSL/TLS, monitoring systems and production troubleshooting.
+My current work involves operating AWS infrastructure and Linux-based production environments, managing 35+ production websites, building deployment pipelines, running Dockerized applications, managing DNS/SSL, and troubleshooting infrastructure and application issues.
 
-I focus on reducing manual work, improving deployment consistency, increasing infrastructure visibility and keeping production systems reliable.
+I focus on turning operational work into automated, repeatable and observable systems.
 
-Cloud Infrastructure
-        │
-        ├── AWS
-        ├── Networking
-        └── Security
-              │
-              ▼
-      Deployment Automation
-              │
-        ┌─────┴─────┐
-        │           │
-       CI/CD      Docker
-        │           │
-        └─────┬─────┘
-              ▼
-        Production
-              │
-              ▼
-      Observability
-              │
-       ┌──────┴──────┐
-       │             │
-   Prometheus      Grafana
-       │             │
-       └──────┬──────┘
-              ▼
-       Continuous Improvement
+Current Role
+DevOps Engineer · TGS Ventures
 
-Technology Stack
-<div align="center">
-Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+December 2025 — Present
 
-<br><br>
+Production infrastructure
 
-<code>AWS EC2</code>
-<code>AWS VPC</code>
-<code>IAM</code>
-<code>Route 53</code>
-<code>Load Balancer</code>
-<code>CloudWatch</code>
+Manage and maintain 35+ production websites and workloads
+Administer AWS infrastructure across EC2, VPC, IAM, Security Groups, Route 53, Load Balancers and CloudWatch
+Manage domains, DNS records and SSL/TLS certificates
+Administer Linux production servers
+Troubleshoot networking, DNS, SSL/TLS, web-server and deployment issues
 
-<br><br>
+CI/CD & deployment
 
-Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="55"/>
+Build and maintain Jenkins pipelines
+Work with Git and GitHub-based workflows
+Automate application deployments
+Deploy and manage Dockerized applications
+Maintain Nginx and Apache Tomcat environments
 
-<br><br>
+Monitoring & reliability
 
-CI/CD & Version Control
-<img src="https://skillicons.dev/icons?i=jenkins,git,github,bash" height="55"/>
+Monitor infrastructure and applications using Prometheus, Grafana and CloudWatch
+Investigate production issues using system and application metrics
+Improve operational visibility and reliability
 
-<br><br>
+Cloud optimization
 
-Infrastructure as Code
-<img src="https://skillicons.dev/icons?i=terraform" height="55"/>
-
-<br><br>
-
-Monitoring & Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="55"/>
-
-<br><br>
-
-Systems & Web
-<img src="https://skillicons.dev/icons?i=linux,nginx" height="55"/> </div>
-Production Experience
-DevOps Engineer — TGS Ventures
-
-December 2025 – Present
-
+Contributed approximately $1,500/month in AWS cost savings
+Achieved through resource optimization, right-sizing and identifying unnecessary resource consumption
+Technology
 <table> <tr> <td width="50%" valign="top">
-Infrastructure
-AWS production infrastructure
-35+ production websites
-Domain and DNS management
-SSL/TLS certificates
-Linux servers
-Nginx
-Apache Tomcat
-Production troubleshooting
+Cloud
+<img src="https://skillicons.dev/icons?i=aws" height="42">
+
+EC2 · VPC · IAM · Route 53 · Load Balancer · CloudWatch
+
 </td> <td width="50%" valign="top">
-AWS
-EC2
-VPC
-IAM
-Security Groups
-Route 53
-Load Balancers
-CloudWatch
-Infrastructure optimization
+Containers
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" height="42">
+
+Docker · Kubernetes
+
 </td> </tr> <tr> <td valign="top">
-CI/CD
-Jenkins pipelines
-GitHub workflows
-Automated deployments
-Dockerized applications
-Deployment troubleshooting
+CI/CD & Version Control
+<img src="https://skillicons.dev/icons?i=jenkins,git,github" height="42">
+
+Jenkins · Git · GitHub
+
 </td> <td valign="top">
+Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform" height="42">
+
+Terraform
+
+</td> </tr> <tr> <td valign="top">
 Observability
-Prometheus
-Grafana
-CloudWatch
-Infrastructure monitoring
-Application monitoring
-Proactive issue detection
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42">
+
+Prometheus · Grafana · CloudWatch
+
+</td> <td valign="top">
+Systems
+<img src="https://skillicons.dev/icons?i=linux,nginx,bash" height="42">
+
+Linux · Nginx · Bash · Apache Tomcat
+
 </td> </tr> </table>
-Cloud Cost Optimization
-<div align="center">
-~$1,500 / MONTH
-
-AWS cost savings through resource optimization and right-sizing
-
-</div>
-Featured Projects
-<table> <tr> <td width="50%" valign="top">
+Selected Projects
 Fusionpact DevOps Challenge
 
-DevOps · Docker · CI/CD · Monitoring
+Docker · CI/CD · Linux · Nginx · Prometheus · Grafana
 
-A practical DevOps implementation focused on containerization, deployment automation and observability.
+A practical DevOps implementation focused on containerization, automated deployment and observability.
 
-Stack
+Engineering areas
 
-Docker Jenkins Prometheus Grafana Linux Nginx
+Containerized application deployment
+CI/CD workflow
+Linux server configuration
+Nginx
+Prometheus metrics
+Grafana dashboards
+Deployment automation
 
-Workflow
-GitHub
-   ↓
-CI/CD
-   ↓
-Docker
-   ↓
-Application
-   ↓
-Prometheus
-   ↓
-Grafana
+View repository →
 
-<a href="https://github.com/Ujjawal17-alt/fusionpact-devops-challenge"> <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> <td width="50%" valign="top">
 AWS Face Recognition
 
-AWS · Serverless · Cloud Architecture
+AWS Lambda · S3 · DynamoDB · API Gateway · IAM · Rekognition
 
-Serverless application integrating AWS managed services for a face-recognition workflow.
-
-Stack
-
-Lambda S3 DynamoDB API Gateway IAM Rekognition
+A serverless AWS application demonstrating integration between managed AWS services.
 
 Architecture
-Client
-  ↓
-API Gateway
-  ↓
-Lambda
- ├──→ S3
- ├──→ DynamoDB
- └──→ Rekognition
 
-<a href="https://github.com/Ujjawal17-alt/Face-Rekognition"> <img src="https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/> </a> </td> </tr> </table>
-DevOps Architecture
-<div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_devops_re_4iws.svg" width="650"/> </div> <br>
-                         ┌─────────────────┐
-                         │     GITHUB      │
-                         │  Source Control │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      JENKINS    │
-                         │      CI / CD     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │      DOCKER     │
-                         │   Containerize  │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │       AWS       │
-                         │   Production    │
-                         └────────┬────────┘
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-                    ▼                           ▼
-             ┌─────────────┐             ┌─────────────┐
-             │ Prometheus  │             │ Application │
-             │   Metrics   │             │    Logs     │
-             └──────┬──────┘             └─────────────┘
-                    │
-                    ▼
-             ┌─────────────┐
-             │   Grafana   │
-             │ Dashboards  │
-             └─────────────┘
+                     Client
+                       │
+                       ▼
+                 API Gateway
+                       │
+                       ▼
+                    Lambda
+                  /        \
+                 ▼          ▼
+                S3       DynamoDB
+                 │
+                 ▼
+             Rekognition
 
-Infrastructure Domains
-<div align="center"> <table> <tr> <td align="center" width="25%">
-CLOUD
+
+View repository →
+
+Production Workflow
+<div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_devops_re_4iws.svg" width="520"> </div>
+Developer
+    │
+    ▼
+  GitHub
+    │
+    ▼
+ Jenkins
+    │
+    ▼
+ Docker
+    │
+    ▼
+Production
+    │
+    ├───────────────┐
+    ▼               ▼
+Prometheus        Logs
+    │
+    ▼
+ Grafana
+    │
+    ▼
+Monitoring → Troubleshooting → Improvement
+
+Engineering Focus
+Area	Focus
+Cloud	AWS infrastructure and architecture
+Delivery	CI/CD and automated deployments
+Containers	Docker and Kubernetes
+Infrastructure	Terraform / Infrastructure as Code
+Observability	Prometheus, Grafana, CloudWatch
+Operations	Linux, networking, DNS, SSL/TLS
+Automation	Bash and deployment automation
+Future Focus	GitOps, DevSecOps, Platform Engineering
+What I'm Building Toward
+
+I'm currently expanding from traditional infrastructure and deployment operations toward cloud-native and platform engineering.
 
 AWS
-EC2
-VPC
-IAM
-Route 53
+ │
+ ├── Terraform
+ │
+ ├── Docker
+ │
+ ├── Kubernetes
+ │
+ ├── GitOps
+ │
+ ├── DevSecOps
+ │
+ └── Observability
 
-</td> <td align="center" width="25%">
-DELIVERY
 
-Jenkins
+The goal is to build infrastructure that is declarative, automated, secure, observable and reproducible.
+
 GitHub
-Docker
-CI/CD
-
-</td> <td align="center" width="25%">
-OBSERVABILITY
-
-Prometheus
-Grafana
-CloudWatch
-
-</td> <td align="center" width="25%">
-SYSTEMS
-
-Linux
-Nginx
-Tomcat
-DNS
-SSL/TLS
-
-</td> </tr> </table> </div>
-Infrastructure as Code
-<div align="center"> <img src="https://skillicons.dev/icons?i=terraform" height="70"/>
-Terraform
-
-Infrastructure as Code is part of my current engineering focus, with emphasis on:
-
-AWS Provisioning · Reusable Infrastructure · Automation · Environment Consistency
-
-</div>
-Kubernetes & GitOps
-<div align="center"> <img src="https://skillicons.dev/icons?i=kubernetes" height="65"/>
-
-   
-
-<img src="https://img.shields.io/badge/GitOps-0F172A?style=for-the-badge&logo=git&logoColor=white"/> </div>
-
-My current focus is moving toward more declarative and scalable infrastructure:
-
-Terraform
-    ↓
-Cloud Infrastructure
-    ↓
-Kubernetes
-    ↓
-GitOps
-    ↓
-Automated Deployments
-    ↓
-Observability
-
-Engineering Principles
-<div align="center"> <table> <tr> <td align="center"> <b>AUTOMATE</b> <br> <sub>Eliminate repetitive work</sub> </td> <td align="center"> <b>OBSERVE</b> <br> <sub>Measure system health</sub> </td> <td align="center"> <b>SECURE</b> <br> <sub>Protect infrastructure</sub> </td> </tr> <tr> <td align="center"> <b>STANDARDIZE</b> <br> <sub>Make systems reproducible</sub> </td> <td align="center"> <b>OPTIMIZE</b> <br> <sub>Improve efficiency</sub> </td> <td align="center"> <b>IMPROVE</b> <br> <sub>Iterate continuously</sub> </td> </tr> </table> </div>
-GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ujjawal17-alt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal17-alt&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Ujjawal17-alt&theme=github-dark-blue&hide_border=true"/> </div>
-Current Engineering Roadmap
-<div align="center">
-Stage	Focus
-01	AWS Cloud Architecture
-02	Terraform & Infrastructure as Code
-03	Kubernetes
-04	GitOps
-05	DevSecOps
-06	Advanced Observability
-07	Platform Engineering
-</div>
-What I'm Building Toward
-                         PLATFORM ENGINEERING
-                                  ▲
-                                  │
-                         ┌────────┴────────┐
-                         │                 │
-                     DevSecOps         Observability
-                         │                 │
-                         └────────┬────────┘
-                                  │
-                              GitOps
-                                  │
-                             Kubernetes
-                                  │
-                              Terraform
-                                  │
-                                AWS
-
-
-The long-term goal is to build secure, scalable and highly automated cloud platforms rather than simply managing individual servers.
-
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ujjawal17-alt&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal17-alt&layout=compact&hide_border=true&theme=github_dark"> <br> <img src="https://streak-stats.demolab.com?user=Ujjawal17-alt&theme=github-dark-blue&hide_border=true"> </div>
 Connect
 <div align="center">
 
-I'm interested in DevOps, Cloud Infrastructure, Platform Engineering, Automation and Reliability.
-
-<br> <a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <!-- Add LinkedIn when available --> <!-- <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> --> </div>
-<div align="center"> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Build+reliable+systems.;Automate+the+repeatable.;Observe+the+important.;Improve+continuously."/>
+DevOps · Cloud Infrastructure · Automation · Reliability
 
 <br><br>
 
-DEVOPS · CLOUD · AUTOMATION · RELIABILITY
+<!-- Add LinkedIn here --> <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL) --> </div> <br> <div align="center">
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:111827,100:0EA5E9&height=120&section=footer"/>
+<sub>Build reliable systems · Automate repetitive work · Observe what matters · Improve continuously</sub>
+
+</div>
