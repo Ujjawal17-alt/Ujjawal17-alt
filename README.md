@@ -1,348 +1,258 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,45:111827,75:0F172A,100:FF9900&text=UJJAWAL&fontColor=ffffff&fontSize=72&fontAlignY=40&desc=DEVOPS%20ENGINEER&descAlignY=62&descSize=22&animation=fadeIn"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+CI%2FCD+%7C+Automation;AWS+%7C+Docker+%7C+Jenkins+%7C+Linux;Prometheus+%7C+Grafana+%7C+Terraform;Building+Reliable+Production+Infrastructure"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05070A,50:111827,100:FF9900&text=UJJAWAL&fontSize=72&fontColor=FFFFFF&fontAlignY=40&desc=DEVOPS%20ENGINEER%20%7C%20CLOUD%20%7C%20AUTOMATION&descSize=19&descAlignY=62&animation=fadeIn" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=AWS+Infrastructure;CI%2FCD+Automation;Docker+%7C+Linux+%7C+Jenkins;Prometheus+%7C+Grafana;Building+Reliable+Production+Systems" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github,git,linux,nginx,terraform,kubernetes,prometheus,grafana,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,github,git,linux,nginx,terraform,kubernetes,prometheus,grafana,bash&perline=6"/>
 
 <br><br>
 
-<a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/Ujjawal17-alt?tab=repositories"> <img src="https://img.shields.io/badge/PROJECTS-FF9900?style=for-the-badge&logo=github&logoColor=111827"/> </a> </div> <br>
-<div align="center">
-Building Infrastructure That Doesn't Need Babysitting.
-Cloud infrastructure · deployment automation · observability · reliability
-</div> <br> <table> <tr> <td width="50%" valign="middle">
-WHO I AM
+<a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://github.com/Ujjawal17-alt?tab=repositories"> <img src="https://img.shields.io/badge/PROJECTS-FF9900?style=for-the-badge&logo=github&logoColor=111111"/> </a> </div> <br> <!-- ======================= INTRO ======================= --> <table> <tr> <td width="55%" valign="middle">
+Hey, I'm Ujjawal 👋
+DevOps Engineer
 
-I'm a DevOps Engineer working with production cloud infrastructure, CI/CD, containers, Linux systems and monitoring.
+I work on cloud infrastructure, CI/CD automation, containerized deployments, Linux systems and observability.
 
-I currently work on AWS-based environments where reliability, deployment speed, security and operational efficiency matter.
+Currently working with production AWS environments and 35+ production websites, focusing on reliability, automation and operational efficiency.
 
-I like taking a manual process and turning it into:
+<br>
 
-repeatable → automated → observable → reliable
+My approach
 
-</td> <td width="50%"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_devops_re_4iws.svg" width="100%"/> </td> </tr> </table>
-Production at a Glance
-<div align="center"> <table> <tr> <td align="center" width="25%">
-35+
+Automate → Deploy → Observe → Troubleshoot → Improve
 
-Production Websites
+</td> <td width="45%" align="center"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_devops_re_4iws.svg" width="420"/> </td> </tr> </table> <br> <!-- ======================= METRICS ======================= --> <div align="center"> <table> <tr> <td align="center" width="25%"> <h2>35+</h2> Production<br>Websites </td> <td align="center" width="25%"> <h2>AWS</h2> Production<br>Infrastructure </td> <td align="center" width="25%"> <h2>$1.5K+</h2> Monthly<br>Optimization </td> <td align="center" width="25%"> <h2>CI/CD</h2> Jenkins<br>GitHub </td> </tr> </table> </div> <br> <!-- ======================= STACK ======================= --> <h1>⚡ Technology Stack</h1> <table> <tr> <td width="25%" align="center"> <h3>☁️ Cloud</h3> <img src="https://skillicons.dev/icons?i=aws" width="55"/>
 
-</td> <td align="center" width="25%">
-AWS
+<br><br>
 
-Production Cloud
-
-</td> <td align="center" width="25%">
-~$1.5K
-
-Monthly AWS Savings
-
-</td> <td align="center" width="25%">
-CI/CD
-
-Jenkins + GitHub
-
-</td> </tr> </table> </div>
-What I Work On
-<table> <tr> <td width="50%" valign="top">
-Cloud Infrastructure
-<img src="https://skillicons.dev/icons?i=aws" height="45"/>
-
-Production AWS infrastructure including:
-
-EC2
-VPC
-IAM
-Security Groups
-Route 53
-Load Balancers
+AWS<br>
+EC2 · VPC<br>
+IAM · Route 53<br>
+Load Balancer<br>
 CloudWatch
 
-</td> <td width="50%" valign="top">
-Delivery & Automation
-<img src="https://skillicons.dev/icons?i=jenkins,docker,github" height="45"/>
+</td> <td width="25%" align="center"> <h3>📦 Containers</h3> <img src="https://skillicons.dev/icons?i=docker,kubernetes" width="110"/>
 
-Deployment workflows using:
+<br><br>
 
-Jenkins
-GitHub
-Docker
-Bash
+Docker<br>
+Kubernetes<br>
+Containerized Apps
 
-Focused on reducing manual deployment effort and improving consistency.
+</td> <td width="25%" align="center"> <h3>🔄 CI/CD</h3> <img src="https://skillicons.dev/icons?i=jenkins,git,github" width="150"/>
 
-</td> </tr> <tr> <td valign="top">
-Observability
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" height="45"/>
+<br><br>
 
-Monitoring infrastructure and applications using:
+Jenkins<br>
+Git<br>
+GitHub<br>
+Automated Deployments
 
-Prometheus
-Grafana
-AWS CloudWatch
+</td> <td width="25%" align="center"> <h3>📊 Observability</h3> <img src="https://skillicons.dev/icons?i=prometheus,grafana" width="110"/>
 
-</td> <td valign="top">
-Production Operations
-<img src="https://skillicons.dev/icons?i=linux,nginx,bash" height="45"/>
+<br><br>
 
-Working with:
+Prometheus<br>
+Grafana<br>
+CloudWatch
 
-Linux
-Nginx
-Apache Tomcat
-DNS
-SSL/TLS
-Networking
-
-</td> </tr> </table>
-Production Experience
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0B1220&text=TGS%20VENTURES&fontColor=FFFFFF&fontSize=28"/>
-DevOps Engineer
+</td> </tr> </table> <br> <!-- ======================= EXPERIENCE ======================= --> <h1>🏗️ Production Engineering</h1> <table> <tr> <td>
+DevOps Engineer — TGS Ventures
 
 December 2025 — Present
 
-</div> <br> <table> <tr> <td width="33%" valign="top">
-Infrastructure
-35+ production websites
-AWS infrastructure
-Linux servers
-DNS management
-SSL/TLS
-Nginx
-Apache Tomcat
-Production troubleshooting
-</td> <td width="33%" valign="top">
-Deployment
-Jenkins pipelines
-GitHub workflows
-Docker deployments
-Application releases
-Deployment automation
-CI/CD maintenance
-</td> <td width="33%" valign="top">
-Reliability
-Prometheus
-Grafana
-CloudWatch
-Infrastructure monitoring
-Application monitoring
-Incident troubleshooting
-</td> </tr> </table> <br> <div align="center">
-AWS COST OPTIMIZATION
-<img src="https://img.shields.io/badge/~%241%2C500%2FMONTH-SAVINGS-FF9900?style=for-the-badge&labelColor=111827"/>
+</td> </tr> <tr> <td>
+
+AWS Infrastructure
+
+EC2 · VPC · IAM · Route 53 · Load Balancer · CloudWatch
+
+Managing production cloud infrastructure, Linux servers, domains, DNS, SSL/TLS and application environments.
+
+<br>
+
+CI/CD & Deployment
+
+Jenkins · GitHub · Docker
+
+Building deployment pipelines and managing Dockerized application deployments.
+
+<br>
+
+Monitoring & Reliability
+
+Prometheus · Grafana · CloudWatch
+
+Monitoring infrastructure and applications while troubleshooting production issues.
+
+<br>
+
+Optimization
+
+<img src="https://img.shields.io/badge/AWS%20COST%20OPTIMIZATION-~%241%2C500%2FMONTH-FF9900?style=flat-square&labelColor=111827"/>
+
+Resource optimization, right-sizing and identification of unnecessary resource usage.
+
+</td> </tr> </table> <br> <!-- ======================= ARCHITECTURE ======================= --> <h1>☁️ How I Think About Infrastructure</h1> <div align="center"> <img src="https://skillicons.dev/icons?i=github,jenkins,docker,aws,prometheus,grafana" width="330"/>
 
 <br><br>
 
-Resource optimization · right-sizing · unnecessary resource identification
+<table> <tr> <td align="center"> <b>SOURCE</b><br><br> GitHub </td> <td align="center">→</td> <td align="center"> <b>BUILD</b><br><br> Jenkins </td> <td align="center">→</td> <td align="center"> <b>PACKAGE</b><br><br> Docker </td> <td align="center">→</td> <td align="center"> <b>DEPLOY</b><br><br> AWS </td> <td align="center">→</td> <td align="center"> <b>OBSERVE</b><br><br> Grafana </td> </tr> </table> </div> <br> <!-- ======================= PROJECTS ======================= --> <h1>🚀 Featured Projects</h1> <table> <tr> <td width="50%" valign="top"> <div align="center"> <img src="https://skillicons.dev/icons?i=docker,jenkins,prometheus,grafana" width="220"/> <h2>Fusionpact DevOps Challenge</h2> <p> <b>Docker · CI/CD · Linux · Nginx · Prometheus · Grafana</b> </p> </div>
 
-</div>
-My Infrastructure
-<div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_server_status_re_n8ws.svg" width="650"/> </div> <br> <table> <tr> <td align="center">
-SOURCE
+Containerized application deployment with CI/CD automation and observability.
 
-GitHub
+<br>
 
-</td> <td align="center">→</td> <td align="center">
-BUILD
+<b>Key Areas</b>
 
-Jenkins
-
-</td> <td align="center">→</td> <td align="center">
-PACKAGE
-
-Docker
-
-</td> <td align="center">→</td> <td align="center">
-RUN
-
-AWS
-
-</td> <td align="center">→</td> <td align="center">
-OBSERVE
-
-Grafana
-
-</td> </tr> </table>
-Featured Work
-<br> <table> <tr> <td width="55%" valign="middle"> <img src="https://raw.githubusercontent.com/Ujjawal17-alt/fusionpact-devops-challenge/main/assets/architecture.png" width="100%"/> </td> <td width="45%" valign="top">
-Fusionpact
-DevOps Challenge
-
-Docker · CI/CD · Linux · Nginx · Prometheus · Grafana
-
-A hands-on DevOps implementation focused on containerized application delivery and observability.
-
-Built Around
-Containerization
-CI/CD automation
+Dockerized application
+CI/CD pipeline
 Linux deployment
 Nginx
 Prometheus
 Grafana
-Application monitoring
-<br> <a href="https://github.com/Ujjawal17-alt/fusionpact-devops-challenge"> <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF9900?style=for-the-badge&logo=github&logoColor=111827"/> </a> </td> </tr> </table>
+Monitoring
+<br> <div align="center"> <a href="https://github.com/Ujjawal17-alt/fusionpact-devops-challenge"> <img src="https://img.shields.io/badge/VIEW_PROJECT-FF9900?style=for-the-badge&logo=github&logoColor=111111"/> </a> </div> </td> <td width="50%" valign="top"> <div align="center"> <img src="https://skillicons.dev/icons?i=aws" width="65"/> <h2>AWS Face Recognition</h2> <p> <b>Lambda · S3 · DynamoDB · API Gateway · Rekognition</b> </p> </div>
 
-Note: If assets/architecture.png doesn't exist in your repository, replace this image with your actual screenshot.
-
-<br> <table> <tr> <td width="45%" valign="middle">
-AWS Face Recognition
-Serverless Application
-
-Lambda · S3 · DynamoDB · API Gateway · IAM · Rekognition
-
-A serverless AWS application integrating managed services for a face-recognition workflow.
-
-Architecture
-
-Client
-
-↓
-
-API Gateway
-
-↓
-
-Lambda
-
-↓
-
-S3 + DynamoDB + Rekognition
-
-<br> <a href="https://github.com/Ujjawal17-alt/Face-Rekognition"> <img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF9900?style=for-the-badge&logo=github&logoColor=111827"/> </a> </td> <td width="55%" valign="middle"> <img src="https://raw.githubusercontent.com/Ujjawal17-alt/Face-Rekognition/main/assets/aws-architecture.png" width="100%"/> </td> </tr> </table>
-
-Note: If assets/aws-architecture.png doesn't exist, replace it with your AWS architecture screenshot.
-
-CI/CD
-<div align="center"> <img src="https://raw.githubusercontent.com/saadeghi/files/main/undraw_version_control_re_mg66.svg" width="600"/> </div> <br>
-                    ┌──────────────┐
-                    │    GitHub    │
-                    │     Code     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    Jenkins   │
-                    │     CI/CD    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    Docker    │
-                    │    Image     │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │     AWS      │
-                    │  Production  │
-                    └──────┬───────┘
-                           │
-                ┌──────────┴──────────┐
-                ▼                     ▼
-         ┌──────────────┐      ┌──────────────┐
-         │  Prometheus  │      │     Logs     │
-         │    Metrics   │      │              │
-         └──────┬───────┘      └──────────────┘
-                │
-                ▼
-         ┌──────────────┐
-         │    Grafana   │
-         │  Dashboards  │
-         └──────────────┘
-
-Observability
-<table> <tr> <td width="50%" valign="middle"> <img src="https://raw.githubusercontent.com/Ujjawal17-alt/fusionpact-devops-challenge/main/assets/grafana.png" width="100%"/> </td> <td width="50%" valign="middle">
-Monitoring Stack
-Prometheus
-
-Collect infrastructure and application metrics.
-
-Grafana
-
-Turn metrics into operational dashboards and visibility.
-
-CloudWatch
-
-Monitor AWS infrastructure and cloud resources.
+Serverless AWS application integrating multiple managed cloud services.
 
 <br>
 
-Metrics → Dashboards → Detection → Troubleshooting → Improvement
+<b>Architecture</b>
 
-</td> </tr> </table>
+Client
+  │
+  ▼
+API Gateway
+  │
+  ▼
+Lambda
+ ┌┴───────────┐
+ ▼            ▼
+S3        DynamoDB
+ │
+ ▼
+Rekognition
 
-Add your real Grafana screenshot at assets/grafana.png.
-
-Technology Map
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,github,git,linux,nginx,prometheus,grafana,bash&perline=6"/>
+<br> <div align="center"> <a href="https://github.com/Ujjawal17-alt/Face-Rekognition"> <img src="https://img.shields.io/badge/VIEW_PROJECT-FF9900?style=for-the-badge&logo=github&logoColor=111111"/> </a> </div> </td> </tr> </table> <br> <!-- ======================= PROJECT VISUAL ======================= --> <h1>🖥️ Project Showcase</h1> <div align="center"> <table> <tr> <td align="center" width="50%"> <h3>Fusionpact</h3> <img src="https://placehold.co/900x500/0B1117/38BDF8?text=FUSIONPACT+DEVOPS+PROJECT" width="100%"/>
 
 <br><br>
 
-<table> <tr> <td><b>Cloud</b></td> <td>AWS · EC2 · VPC · IAM · Route 53 · Load Balancer · CloudWatch</td> </tr> <tr> <td><b>Containers</b></td> <td>Docker · Kubernetes</td> </tr> <tr> <td><b>CI/CD</b></td> <td>Jenkins · Git · GitHub</td> </tr> <tr> <td><b>IaC</b></td> <td>Terraform</td> </tr> <tr> <td><b>Monitoring</b></td> <td>Prometheus · Grafana · CloudWatch</td> </tr> <tr> <td><b>Systems</b></td> <td>Linux · Nginx · Apache Tomcat · Bash</td> </tr> <tr> <td><b>Networking</b></td> <td>DNS · SSL/TLS · VPC · Load Balancing</td> </tr> </table> </div>
-Building Next
-<div align="center"> <img src="https://skillicons.dev/icons?i=terraform,kubernetes" height="65"/>
+Docker · CI/CD · Monitoring
+
+</td> <td align="center" width="50%"> <h3>AWS Architecture</h3> <img src="https://placehold.co/900x500/0B1117/FF9900?text=AWS+FACE+RECOGNITION" width="100%"/>
 
 <br><br>
 
-<table> <tr> <td width="25%" align="center">
+Lambda · S3 · DynamoDB · Rekognition
+
+</td> </tr> </table> </div> <br> <!-- ======================= OBSERVABILITY ======================= --> <h1>📈 Observability</h1> <table> <tr> <td width="50%" valign="middle"> <div align="center"> <img src="https://skillicons.dev/icons?i=prometheus,grafana" width="140"/> </div>
+Monitoring Philosophy
+
+Production systems should not be black boxes.
+
+I use monitoring to understand:
+
+infrastructure health
+application behaviour
+resource utilization
+performance trends
+production incidents
+</td> <td width="50%" valign="middle">
+        APPLICATION
+             │
+             ▼
+          METRICS
+             │
+             ▼
+       ┌───────────┐
+       │Prometheus │
+       └─────┬─────┘
+             │
+             ▼
+       ┌───────────┐
+       │  Grafana  │
+       └─────┬─────┘
+             │
+             ▼
+       VISIBILITY
+             │
+             ▼
+      TROUBLESHOOT
+             │
+             ▼
+        IMPROVE
+
+</td> </tr> </table> <br> <!-- ======================= DEVOPS ======================= --> <h1>🔁 DevOps Lifecycle</h1> <div align="center"> <img src="https://img.shields.io/badge/1_CODE-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/2_BUILD-D24939?style=for-the-badge&logo=jenkins"/> <img src="https://img.shields.io/badge/3_CONTAINER-2496ED?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/4_DEPLOY-FF9900?style=for-the-badge&logo=amazonaws"/> <img src="https://img.shields.io/badge/5_MONITOR-FF4B4B?style=for-the-badge&logo=prometheus"/> <img src="https://img.shields.io/badge/6_IMPROVE-38BDF8?style=for-the-badge"/> </div> <br> <div align="center">
+
+Code → Build → Package → Deploy → Monitor → Improve
+
+</div> <br> <!-- ======================= FOCUS ======================= --> <h1>🎯 Engineering Focus</h1> <table> <tr> <td align="center" width="33%">
+Cloud
+
+AWS Infrastructure
+
+EC2 · VPC · IAM
+
+Networking · Security
+
+</td> <td align="center" width="33%">
+Automation
+
+CI/CD
+
+Jenkins · GitHub
+
+Docker · Bash
+
+</td> <td align="center" width="33%">
+Reliability
+
+Monitoring
+
+Prometheus · Grafana
+
+CloudWatch
+
+</td> </tr> <tr> <td align="center">
+Infrastructure
+
 Terraform
 
 Infrastructure as Code
 
-</td> <td width="25%" align="center">
+</td> <td align="center">
+Cloud Native
+
 Kubernetes
 
-Container orchestration
+Container Orchestration
 
-</td> <td width="25%" align="center">
-GitOps
+</td> <td align="center">
+Future
 
-Declarative delivery
+GitOps · DevSecOps
 
-</td> <td width="25%" align="center">
-DevSecOps
+Platform Engineering
 
-Secure delivery
+</td> </tr> </table> <br> <!-- ======================= LEARNING ======================= --> <h1>🧭 What's Next</h1> <div align="center"> <img src="https://skillicons.dev/icons?i=terraform,kubernetes" width="130"/>
 
-</td> </tr> </table> </div> <br>
+<br><br>
 
-My next step is moving toward cloud-native infrastructure and platform engineering, combining AWS, Terraform, Kubernetes, GitOps, security and observability.
+<img src="https://img.shields.io/badge/TERRAFORM-Infrastructure%20as%20Code-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/KUBERNETES-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/GITOPS-Declarative%20Delivery-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/DEVSECOPS-Secure%20Delivery-111827?style=for-the-badge"/> </div> <br>
 
-Engineering Dashboard
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ujjawal17-alt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="175"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal17-alt&layout=compact&theme=github_dark&hide_border=true" height="175"/>
+My current direction is toward cloud-native infrastructure and platform engineering, with a focus on Terraform, Kubernetes, GitOps, DevSecOps and advanced observability.
+
+📊 GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ujjawal17-alt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjawal17-alt&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 <br><br>
 
 <img src="https://streak-stats.demolab.com?user=Ujjawal17-alt&theme=github-dark-blue&hide_border=true" width="700"/> </div>
-GitHub Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjawal17-alt&theme=github-compact&hide_border=true&area=true&custom_title=Ujjawal%20-%20Contribution%20Activity" width="95%"/> </div>
-Engineering Direction
-<div align="center">
-                    PLATFORM ENGINEERING
-                           │
-            ┌──────────────┼──────────────┐
-            │              │              │
-         CLOUD           DELIVERY      OBSERVABILITY
-            │              │              │
-           AWS           CI/CD        Prometheus
-            │           Docker           Grafana
-            │              │           CloudWatch
-       Terraform       Kubernetes
-            │              │
-            └─────── GitOps ──────────────┘
-                           │
-                       DevSecOps
-                           │
-                           ▼
-                  Reliable Platforms
-
-</div>
-Connect
+🤝 Let's Connect
 <div align="center">
 DevOps · Cloud · Infrastructure · Automation
-<br> <a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a> <!-- Add your LinkedIn here --> <!-- <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> -->
+<br> <a href="https://github.com/Ujjawal17-alt"> <img src="https://img.shields.io/badge/GitHub-Ujjawal17--alt-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <!-- Replace with your actual LinkedIn URL --> <a href="YOUR_LINKEDIN_URL"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:050505,50:111827,100:FF9900&section=footer"/> </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:05070A,50:111827,100:FF9900&section=footer"/> </div>
